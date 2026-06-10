@@ -15,13 +15,13 @@
     "ws": "^8.21.0"
   },
   "keywords": [
-    "lnrp",
+    "nexus",
     "p2p",
     "messaging",
     "decentralized"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "BanaSheepy",
+  "license": "GPL 2.0",
   "engines": {
     "node": ">=18.0.0"
   }
