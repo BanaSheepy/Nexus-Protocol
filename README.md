@@ -38,6 +38,7 @@ they may be problems with the setup, if this is the case let me know.
 Make sure you are running sudo before each install thing.
 
 ## Ubuntu Client
+### EDIT: Do git clone and do FULL install commands for server then just do "node cli.js" ignore the stuff below, i tested it earlier.
 Just install our latest cli.js release and type:
 * sudo apt update
 * sudo apt install nodejs npm -y
