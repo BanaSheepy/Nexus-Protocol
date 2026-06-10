@@ -1,0 +1,28 @@
+{
+  "name": "lnrp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LNRP Protocol Server - Decentralized name resolution and messaging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "cli": "node cli.js"
+  },
+  "dependencies": {
+    "cbor": "^10.0.12",
+    "sqlite3": "^6.0.1",
+    "ws": "^8.21.0"
+  },
+  "keywords": [
+    "lnrp",
+    "p2p",
+    "messaging",
+    "decentralized"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
