@@ -28,6 +28,10 @@ yarn install # To get all the stuff listed in package.json
 and finally:
 yarn start # To start the Server
 
+## Permissions
+If yuo don't wanna keep having to use sudo I used this command
+sudo chown -R $USER:$USER /home/nexus
+
 // The setup above is using stuff I did for the EARLY VERSIONS, but it still uses all the same stuff
 they may be problems with the setup, if this is the case let me know.
 Make sure you are running sudo before each install thing.
