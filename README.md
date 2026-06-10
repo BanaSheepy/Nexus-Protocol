@@ -1,5 +1,6 @@
 # Nexus Protocol
 Nexus Protocol | An Ubuntu CLI messaging server and client!
+We release updates and notices in the [Discussions](https://github.com/BanaSheepy/Nexus-Protocol/discussions) page for more info on errors we've found and things to be added to the newest patch!
 
 ## Ubuntu Server install Guide
 
