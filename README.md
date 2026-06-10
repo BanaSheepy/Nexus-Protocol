@@ -37,8 +37,11 @@ they may be problems with the setup, if this is the case let me know.
 Make sure you are running sudo before each install thing.
 
 ## Ubuntu Client
-Just install our latest cli.js release and type
-node cli.js
+Just install our latest cli.js release and type:
+* sudo apt update
+* sudo apt install nodejs npm -y
+* npm install cbor
+* node cli.js
 
 # IMPORTANT NOTICE
 I spent all night building this. It's gonna be buggy as hell, please post in issues.
