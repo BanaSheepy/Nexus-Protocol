@@ -29,7 +29,7 @@ node cli.js
 
 # IMPORTANT NOTICE
 I spent all night building this. It's gonna be buggy as hell, please post in issues.
-I made this with the intentions of people working on it and releasing their own varients so I'd love to be sent them if you do!
+I made this with the intentions of people working on it and releasing their own variants so I'd love to be sent them if you do!
 They is no update function so if I make more releases you can't update and migrate to the latest version.
 I will try to make that though<3
 
