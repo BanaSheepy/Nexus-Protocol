@@ -52,4 +52,6 @@ They is no update function so if I make more releases you can't update and migra
 I will try to make that though<3
 
 # Windows
-I wanna port this to windows put I can't be bothered..
+Created a Windows CLI port. Please follow the guide.txt in either powershell or CMD and let me know in [issues](https://github.com/BanaSheepy/Nexus-Protocol/issues) for any problems.
+It's built on the Ubunti CLI v1.0 code without any debugging so it may have the same faults.
+Click [here](https://github.com/BanaSheepy/Nexus-Protocol/releases/tag/win_V1.0) to go to latest release.
