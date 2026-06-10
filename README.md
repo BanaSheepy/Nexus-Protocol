@@ -23,6 +23,15 @@ yarn init -y
 ### More important stuff
 yarn add sqlite3 cbor ws
 
+### Final Setup
+yarn install # To get all the stuff listed in package.json
+and finally:
+yarn start # To start the Server
+
+// The setup above is using stuff I did for the EARLY VERSIONS, but it still uses all the same stuff
+they may be problems with the setup, if this is the case let me know.
+Make sure you are running sudo before each install thing.
+
 ## Ubuntu Client
 Just install our latest cli.js release and type
 node cli.js
